@@ -398,7 +398,7 @@ services:
           - peer1.org1.hf.chainhero.io
 ```
 
-**Be careful, you need to change something in the file !**
+### Be careful, you need to change something in the file !
 
 In the 'docker-compose.yaml' file you need to replace **BOTH** `--HERE--` by the name of the certificate key file located at : 
 
@@ -412,7 +412,7 @@ However, as you might have seen there is 2 files located here (the certificate a
 943fcd5dd60bfc47beeaa0a4736f75c0b0acbe13efb95cb5444e83cf12e0521b_sk
 ```
 
-# 4. Conclusion
+## 4. Conclusion
 
 Now that your Hyperledger-Fabric Network is perfectly set up you can launch it : 
 
