@@ -398,7 +398,7 @@ services:
           - peer1.org1.hf.chainhero.io
 ```
 
-## **Be careful, you need to change something in the file !**
+### Be careful, you need to change something in the file !
 
 In the 'docker-compose.yaml' file you need to replace **BOTH** `--HERE--` by the name of the certificate key file located at : 
 
